@@ -213,11 +213,11 @@ O projeto mais complexo que já desenvolvi em termos de produto e UX.
 
 **Health & Safety**
 
-- **Desenvolvedor de Sistemas Pleno (Full Stack)** · nov/2025 — atual
+- **Desenvolvedor de Sistemas Pleno (Full Stack)** · nov/2025 — atual<br/>
   Desenvolvimento full stack da suíte de sistemas corporativos: front-end em React/TypeScript e back-end em Python/FastAPI + PostgreSQL.
-- **Analista de TI** · mar/2025 — nov/2025
+- **Analista de TI** · mar/2025 — nov/2025<br/>
   Primeiros sistemas internos em React/TypeScript e integrações entre ERP, APIs e bancos de dados.
-- **Auxiliar de TI** · jul/2024 — mar/2025
+- **Auxiliar de TI** · jul/2024 — mar/2025<br/>
   Desenvolvimento front-end dos primeiros sistemas, junto com suporte técnico e infraestrutura.
 
 **PD Tech Co.** · Cofundador e Desenvolvedor Front-End · 2023<br/>
