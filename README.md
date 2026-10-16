@@ -1,52 +1,84 @@
-### Olá, eu sou o Welton Kellyson 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Welton%20Kellyson&fontSize=42&fontColor=ffffff&desc=Desenvolvedor%20Full%20Stack%20Pleno&descAlignY=72&descSize=18&animation=fadeIn" width="100%"/>
 
-Sou um **Desenvolvedor Frontend** apaixonado por tecnologia, com foco em **React, TypeScript, JavaScript, Tailwind** e **integrações com IA/n8n**.  
-Atuo criando soluções modernas, escaláveis e inteligentes, conectando **frontend, bancos de dados e automação de processos** para gerar impacto real.
+<div align="center">
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=React+%C2%B7+TypeScript+%C2%B7+Tailwind;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Sistemas+corporativos+em+produ%C3%A7%C3%A3o;IA+%2B+Automa%C3%A7%C3%A3o+com+n8n" alt="Typing SVG" /></a>
 
-### 🚀 O que estou fazendo atualmente
-- 🔭 Trabalhando em projetos de **frontend moderno** com React e TypeScript.  
-- 🤖 Explorando **integrações de IA no n8n** e automações inteligentes.  
-- 📊 Desenvolvendo dashboards e sistemas integrados a **bancos de dados**.  
-- 🌱 Aprofundando conhecimentos em **DevOps (Docker, GitHub Actions)** e boas práticas de escalabilidade.  
+<a href="https://www.linkedin.com/in/weltonkellyson"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:weltonkellyson24@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Recife%20%7C%20Presencial%20·%20Híbrido%20·%20Remoto-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to%20work-22c55e?style=for-the-badge"/>
 
----
-
-### 🛠 Tech Stack
-- **Frontend:** React, TypeScript, JavaScript, Tailwind, HTML, CSS  
-- **Automação & IA:** n8n, Integração com APIs de IA (OpenAI)  
-- **Banco de Dados:** PostgreSQL, SQL Server, MySQL, Firebase, Supabase  
-- **Infraestrutura:** Redes, Servidores, TOTVS RM  
-- **Outros:** Git, GitHub, Docker básico, Node.js, Postman  
+</div>
 
 ---
 
-### 💡 Projetos Relevantes
-- **HealthScore** → Frontend em React + Integração com IA  
-  🔹 Reduziu em **30% o tempo de treinamento** e aumentou a assertividade das respostas.  
+## 👨‍💻 Sobre mim
 
-- **DataCoreHS** → Dashboards em React/Tailwind integrados ao ERP  
-  🔹 Gerou **40% mais eficiência** na análise de metas e controle de estoque.  
+Desenvolvedor **Full Stack** que constrói sistemas de verdade, do banco de dados à interface, em produção e com usuários reais.
 
-- **AppHealth** → Desenvolvimento mobile com Flutter.  
-- **AI Chatbot & N8N** → Construção de fluxos inteligentes com IA e automações.  
+Em 2 anos saí do suporte técnico para construir, junto com o time de TI da **Health & Safety**, uma suíte de **10 sistemas corporativos** criados do zero e usados todo dia pelos times de vendas, RH, suporte e operações.
 
----
-
-## 📈 GitHub Stats
-![Welton's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeltonKellyson&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=WeltonKellyson&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+- 🎨 Lidero o **front-end** com React, TypeScript e Tailwind
+- ⚙️ Atuo no **back-end** com APIs em Python/FastAPI e modelagem em PostgreSQL
+- 🐳 Deploy com **Docker** em VPS (Easypanel)
+- 🤖 Integro **IA (OpenAI API)** e automações com **n8n** aos sistemas
 
 ---
 
-### 📫 Como me encontrar
-- ✉️ E-mail: [weltonsilva20151@gmail.com](mailto:weltonsilva20151@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/weltonkellyson](https://www.linkedin.com/in/weltonkellyson)  
-- 🌐 Portfólio em breve 🚀  
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Front-end**<br/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css&theme=dark" />
+
+**Back-end & Banco de dados**<br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,mysql,supabase,firebase&theme=dark" />
+
+**DevOps & Ferramentas**<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode&theme=dark" />
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Easypanel-111827?style=for-the-badge"/>
+
+</div>
 
 ---
 
-⚡ **Curiosidade:** Gosto de unir **frontend moderno + IA + automação** para transformar processos complexos em soluções simples e eficientes.  
+## 🚀 Sistemas que construí
+
+> Projetos internos da Health & Safety, em produção. O código é privado, mas as telas estão no meu [LinkedIn](https://www.linkedin.com/in/weltonkellyson) (com dados fictícios).
+
+| Sistema | O que faz | Destaque |
+|---|---|---|
+| 🎫 **HelpHS** | Help Desk com kanban, SLA automático e dashboards | Substituiu o atendimento via WhatsApp |
+| 🧠 **TalentHS** | Plataforma de RH com psicometria DISC/OCEAN, 9Box e chat com IA | Projeto mais complexo em produto e UX |
+| 📈 **GrowthHS** | CRM próprio integrado ao RD Station | Substituiu o Pipedrive |
+| 🏷️ **ControlHS** | Gestão de patrimônio com transferências, depreciação e audit log | 400+ itens · R$ 200 mil em ativos |
+| 📊 **DataCoreHS** | Dashboards financeiros, de metas e estoque integrados ao ERP | +40% de eficiência na análise |
+| 🎯 **HealthScore** | Treinamento de vendas com IA simulando objeções reais | −30% no tempo de treinamento |
+| 🤖 **AI Recruiter** | Triagem de currículos com n8n + OpenAI API | −70% no tempo do processo seletivo |
+
+**Stack comum:** React · TypeScript · Tailwind · Python · FastAPI · PostgreSQL · Docker · OpenAI API
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=WeltonKellyson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeltonKellyson&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+💡 *Gosto de transformar processos que dependiam de planilha e WhatsApp em sistemas simples e confiáveis.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
