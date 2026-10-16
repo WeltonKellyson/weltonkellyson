@@ -123,7 +123,7 @@ Sistemas conversando entre si.
 
 ## 🚀 Projetos em destaque
 
-> Sistemas internos da Health & Safety, desenvolvidos em parceria com o time de TI. O código é privado, mas as telas (com dados fictícios) estão no meu [LinkedIn](https://www.linkedin.com/in/weltonkellyson).
+> Sistemas internos da Health & Safety, desenvolvidos em parceria com o time de TI. O código é privado, mas as telas (com dados fictícios) estão no repositório **[showcase](https://github.com/WeltonKellyson/showcase)** 👀
 
 ### 🎫 HelpHS
 **Plataforma de Help Desk para clientes externos**
@@ -184,22 +184,22 @@ O projeto mais complexo que já desenvolvi em termos de produto e UX.
 **Linguagens**<br/>
 <img src="https://skillicons.dev/icons?i=ts,js,python,html,css" alt="TypeScript, JavaScript, Python, HTML e CSS" />
 
-<br/><br/>
+<br/>
 
 **Front-end & Back-end**<br/>
 <img src="https://skillicons.dev/icons?i=react,tailwind,fastapi,nodejs,flutter" alt="React, Tailwind, FastAPI, Node.js e Flutter" />
 
-<br/><br/>
+<br/>
 
 **Banco de dados**<br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase" alt="PostgreSQL, MySQL, Supabase e Firebase" />
 
-<br/><br/>
+<br/>
 
 **DevOps & Ferramentas**<br/>
 <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" alt="Docker, Git, GitHub, Postman e VS Code" />
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -212,6 +212,7 @@ O projeto mais complexo que já desenvolvi em termos de produto e UX.
 ## 💼 Experiência
 
 **Health & Safety**
+
 - **Desenvolvedor de Sistemas Pleno (Full Stack)** · nov/2025 — atual
   Desenvolvimento full stack da suíte de sistemas corporativos: front-end em React/TypeScript e back-end em Python/FastAPI + PostgreSQL.
 - **Analista de TI** · mar/2025 — nov/2025
@@ -219,15 +220,15 @@ O projeto mais complexo que já desenvolvi em termos de produto e UX.
 - **Auxiliar de TI** · jul/2024 — mar/2025
   Desenvolvimento front-end dos primeiros sistemas, junto com suporte técnico e infraestrutura.
 
-**PD Tech Co.** · Cofundador e Desenvolvedor Front-End · 2023
+**PD Tech Co.** · Cofundador e Desenvolvedor Front-End · 2023<br/>
 Braço de tecnologia da agência Pegada Digital.
 
-**UNIBRA** · Estagiário de TI, BackOffice TOTVS RM · 2023
+**UNIBRA** · Estagiário de TI, BackOffice TOTVS RM · 2023<br/>
 Relatórios, consultas SQL e administração de SQL Server.
 
 ## 🎓 Formação
 
-**Análise e Desenvolvimento de Sistemas**, UNIBRA · 2025
+**Análise e Desenvolvimento de Sistemas**, UNIBRA · 2025<br/>
 **Técnico em Informática**, ETE José Humberto de Moura Cavalcanti
 
 ---
