@@ -4,7 +4,7 @@
 
 <a href="https://github.com/WeltonKellyson">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=React+%C2%B7+TypeScript+%C2%B7+Tailwind;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL;10+sistemas+corporativos+em+produ%C3%A7%C3%A3o;IA+%2B+automa%C3%A7%C3%A3o+com+n8n+e+OpenAI;Do+banco+de+dados+%C3%A0+interface."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=React+%C2%B7+TypeScript+%C2%B7+Tailwind;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Mais+de+10+sistemas+corporativos+em+produ%C3%A7%C3%A3o;IA+%2B+automa%C3%A7%C3%A3o+com+n8n+e+OpenAI;Do+banco+de+dados+%C3%A0+interface."
     alt="Welton Kellyson - apresentação"
   />
 </a>
@@ -28,7 +28,7 @@
 
 Sou **Desenvolvedor Full Stack** e construo sistemas de verdade: do banco de dados à interface, em produção e com usuários reais.
 
-Em 2 anos saí do suporte técnico para construir, junto com o time de TI da **Health & Safety**, uma suíte de **10 sistemas corporativos** criados do zero, usados todo dia pelos times de vendas, RH, suporte e operações.
+Em 2 anos saí do suporte técnico para construir, junto com o time de TI da **Health & Safety**, uma suíte com **mais de 10 sistemas corporativos** criados do zero, usados todo dia pelos times de vendas, RH, suporte e operações.
 
 Meu trabalho conecta quatro áreas:
 
@@ -44,7 +44,7 @@ Meu trabalho conecta quatro áreas:
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <h2>10</h2>
+      <h2>10+</h2>
       <sub>sistemas corporativos<br><b>em produção</b></sub>
     </td>
     <td align="center" width="200">
